@@ -3,6 +3,7 @@ from keras.preprocessing import image
 from tensorflow.keras.models import load_model
 import json
 
+# i am chahat
 # Load the saved model
 loaded_model = load_model("my_model.keras")
 
